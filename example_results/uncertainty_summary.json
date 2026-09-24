@@ -1,0 +1,11 @@
+{
+  "analysis_column": "pIC50",
+  "total_records": 240,
+  "usable_exact_records": 224,
+  "censored_or_approximate_records": 16,
+  "non_numeric_or_missing_records": 0,
+  "unique_standardized_structures": 216,
+  "structures_with_replicates": 21,
+  "replicate_disagreement_threshold": 1.0,
+  "structures_with_replicate_disagreement": 0
+}

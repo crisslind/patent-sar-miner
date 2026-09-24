@@ -1,0 +1,19 @@
+compound_id,smiles,patent_id,assignee,publication_date,pIC50
+EX001,CC(=O)Nc1ccc(OC)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,5.4
+EX002,CC(=O)Nc1ccc(OCC)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,5.8
+EX003,CC(=O)Nc1ccc(OCCC)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,5.6
+EX004,CC(=O)Nc1ccc(F)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,5.1
+EX005,CC(=O)Nc1ccc(Cl)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,5.5
+EX006,CC(=O)Nc1ccc(C#N)cc1,DEMO-001-A1,Example Therapeutics,2022-03-10,6.2
+EX007,CCC(=O)Nc1ccc(OC)cc1,DEMO-002-A1,Fictional Pharma,2023-06-15,5.9
+EX008,O=C(Nc1ccc(OC)cc1)c1ccccc1,DEMO-002-A1,Fictional Pharma,2023-06-15,6.4
+EX009,CC(=O)Nc1cc(OC)cc(OC)c1,DEMO-005-A1,Example Discovery,2023-11-02,6.1
+EX010,CC(=O)Nc1ccc(OC(F)(F)F)cc1,DEMO-005-A1,Example Discovery,2023-11-02,6.5
+EX011,COc1ccc(Nc2ncc(C)cn2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,6.8
+EX012,CCOc1ccc(Nc2ncc(C)cn2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,7.0
+EX013,COc1ccc(Nc2ncc(F)cn2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,7.2
+EX014,COc1ccc(Nc2ncc(Cl)cn2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,7.4
+EX015,COc1ccc(Nc2ncc(C#N)cn2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,7.7
+EX016,COc1ccc(Nc2nccc(F)n2)cc1,DEMO-003-A1,Open Molecules AB,2024-09-19,6.9
+EX017,COc1ccc(Nc2ncc(C)cn2)cc1.[Na+],DEMO-004-A1,Demo Biotech,2025-01-23,6.8
+EX018,not_a_smiles,DEMO-004-A1,Demo Biotech,2025-01-23,4.0

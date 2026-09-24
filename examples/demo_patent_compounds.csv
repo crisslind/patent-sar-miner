@@ -1,0 +1,241 @@
+compound_id,smiles,patent_id,assignee,publication_date,year,series,assay_id,standard_relation,pIC50,project_note
+DPC0001,Fc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,=,5.54,primary measurement
+DPC0002,Fc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.72,primary measurement
+DPC0003,Fc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.64,primary measurement
+DPC0004,Cc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.45,primary measurement
+DPC0005,CCc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.39,primary measurement
+DPC0006,CCCc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,=,5.24,primary measurement
+DPC0007,COc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-08,=,5.35,primary measurement
+DPC0008,CCOc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-09,=,5.47,primary measurement
+DPC0009,Nc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-10,=,5.48,primary measurement
+DPC0010,CNc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-11,=,5.65,primary measurement
+DPC0011,CN(C)c1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-12,=,5.75,primary measurement
+DPC0012,N#Cc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-01,=,5.77,primary measurement
+DPC0013,Fc1ccc(C(F)(F)F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,=,5.6,primary measurement
+DPC0014,NC(=O)c1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.46,primary measurement
+DPC0015,CNC(=O)c1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.5,primary measurement
+DPC0016,NS(=O)(=O)c1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.45,primary measurement
+DPC0017,Fc1ccc(OC(F)(F)F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.6,primary measurement
+DPC0018,Fc1ccc(N2CCOCC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,=,5.95,primary measurement
+DPC0019,Fc1ccc(C2CC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-08,=,5.74,primary measurement
+DPC0020,Fc1ccc(C2CCCCC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-09,=,5.86,primary measurement
+DPC0021,Oc1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-10,=,5.58,primary measurement
+DPC0022,O=C(O)c1ccc(F)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-11,=,5.51,primary measurement
+DPC0023,Clc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-12,<,5.53,primary measurement
+DPC0024,Clc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-01,=,5.48,primary measurement
+DPC0025,Cc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,=,5.46,primary measurement
+DPC0026,CCc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.64,primary measurement
+DPC0027,CCCc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.67,primary measurement
+DPC0028,COc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.82,primary measurement
+DPC0029,CCOc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.81,primary measurement
+DPC0030,Nc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,=,5.59,primary measurement
+DPC0031,CNc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-08,=,5.54,primary measurement
+DPC0032,CN(C)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-09,=,5.54,primary measurement
+DPC0033,N#Cc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-10,=,5.64,primary measurement
+DPC0034,FC(F)(F)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-11,=,5.69,primary measurement
+DPC0035,NC(=O)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-12,=,5.77,primary measurement
+DPC0036,CNC(=O)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-01,=,5.94,primary measurement
+DPC0037,NS(=O)(=O)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,>,5.86,primary measurement
+DPC0038,FC(F)(F)Oc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.83,primary measurement
+DPC0039,Clc1ccc(N2CCOCC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.94,primary measurement
+DPC0040,Clc1ccc(C2CC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.56,primary measurement
+DPC0041,Clc1ccc(C2CCCCC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.66,primary measurement
+DPC0042,Oc1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,=,5.53,primary measurement
+DPC0043,O=C(O)c1ccc(Cl)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-08,=,5.7,primary measurement
+DPC0044,Brc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-09,=,5.74,primary measurement
+DPC0045,Cc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-10,=,5.72,primary measurement
+DPC0046,CCc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-11,<,5.76,primary measurement
+DPC0047,CCCc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-12,=,5.59,primary measurement
+DPC0048,COc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-01,=,5.58,primary measurement
+DPC0049,CCOc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,=,5.53,primary measurement
+DPC0050,Nc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.41,primary measurement
+DPC0051,CNc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.55,primary measurement
+DPC0052,CN(C)c1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.74,primary measurement
+DPC0053,N#Cc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.91,primary measurement
+DPC0054,FC(F)(F)c1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,=,5.87,primary measurement
+DPC0055,NC(=O)c1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.94,primary measurement
+DPC0056,CNC(=O)c1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,=,5.9,primary measurement
+DPC0057,NS(=O)(=O)c1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,=,5.7,primary measurement
+DPC0058,FC(F)(F)Oc1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,5.69,primary measurement
+DPC0059,Brc1ccc(N2CCOCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,5.95,primary measurement
+DPC0060,Brc1ccc(C2CC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,5.78,primary measurement
+DPC0061,Brc1ccc(C2CCCCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-02,=,6.04,primary measurement
+DPC0062,Oc1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-03,=,5.93,primary measurement
+DPC0063,O=C(O)c1ccc(Br)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-04,=,5.99,primary measurement
+DPC0064,Cc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-05,=,5.73,primary measurement
+DPC0065,CCc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-06,=,5.7,primary measurement
+DPC0066,CCCc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-07,=,5.55,primary measurement
+DPC0067,COc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.65,primary measurement
+DPC0068,CCOc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,=,5.76,primary measurement
+DPC0069,Cc1ccc(N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,<,5.76,primary measurement
+DPC0070,CNc1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,5.93,primary measurement
+DPC0071,Cc1ccc(N(C)C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,6.03,primary measurement
+DPC0072,Cc1ccc(C#N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,6.04,primary measurement
+DPC0073,Cc1ccc(C(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-02,=,5.86,primary measurement
+DPC0074,Cc1ccc(C(N)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-03,>,5.67,primary measurement
+DPC0075,CNC(=O)c1ccc(C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-04,=,5.67,primary measurement
+DPC0076,Cc1ccc(S(N)(=O)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-05,=,5.57,primary measurement
+DPC0077,Cc1ccc(OC(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-06,=,5.69,primary measurement
+DPC0078,Cc1ccc(N2CCOCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-07,=,6.03,primary measurement
+DPC0079,Cc1ccc(C2CC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.83,primary measurement
+DPC0080,Cc1ccc(C2CCCCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,=,5.99,primary measurement
+DPC0081,Cc1ccc(O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,=,5.73,primary measurement
+DPC0082,Cc1ccc(C(=O)O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,5.69,primary measurement
+DPC0083,CCc1ccc(CC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,5.66,primary measurement
+DPC0084,CCCc1ccc(CC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,5.59,primary measurement
+DPC0085,CCc1ccc(OC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-02,=,5.78,primary measurement
+DPC0086,CCOc1ccc(CC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-03,=,5.96,primary measurement
+DPC0087,CCc1ccc(N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-04,=,5.98,primary measurement
+DPC0088,CCc1ccc(NC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-05,=,6.11,primary measurement
+DPC0089,CCc1ccc(N(C)C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-06,=,6.16,primary measurement
+DPC0090,CCc1ccc(C#N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-07,=,6.12,primary measurement
+DPC0091,CCc1ccc(C(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.92,primary measurement
+DPC0092,CCc1ccc(C(N)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,<,5.76,primary measurement
+DPC0093,CCc1ccc(C(=O)NC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,=,5.81,primary measurement
+DPC0094,CCc1ccc(S(N)(=O)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,5.76,primary measurement
+DPC0095,CCc1ccc(OC(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,5.88,primary measurement
+DPC0096,CCc1ccc(N2CCOCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,6.18,primary measurement
+DPC0097,CCc1ccc(C2CC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-02,=,5.9,primary measurement
+DPC0098,CCc1ccc(C2CCCCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-03,=,5.96,primary measurement
+DPC0099,CCc1ccc(O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-04,=,5.66,primary measurement
+DPC0100,CCc1ccc(C(=O)O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-05,=,5.61,primary measurement
+DPC0101,CCCc1ccc(CCC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-06,=,5.44,primary measurement
+DPC0102,CCCc1ccc(OC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-07,=,5.62,primary measurement
+DPC0103,CCCc1ccc(OCC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.81,primary measurement
+DPC0104,CCCc1ccc(N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,=,5.85,primary measurement
+DPC0105,CCCc1ccc(NC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,=,6.03,primary measurement
+DPC0106,CCCc1ccc(N(C)C)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,6.12,primary measurement
+DPC0107,CCCc1ccc(C#N)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,6.12,primary measurement
+DPC0108,CCCc1ccc(C(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,5.95,primary measurement
+DPC0109,CCCc1ccc(C(N)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,5.94,primary measurement
+DPC0110,CCCc1ccc(C(=O)NC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,=,5.98,primary measurement
+DPC0111,CCCc1ccc(S(N)(=O)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,>,5.92,primary measurement
+DPC0112,CCCc1ccc(OC(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,=,6.04,primary measurement
+DPC0113,CCCc1ccc(N2CCOCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,=,6.34,primary measurement
+DPC0114,CCCc1ccc(C2CC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,=,6.06,primary measurement
+DPC0115,CCCc1ccc(C2CCCCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-08,<,6.12,primary measurement
+DPC0116,CCCc1ccc(O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-09,=,5.8,primary measurement
+DPC0117,CCCc1ccc(C(=O)O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-10,=,5.71,primary measurement
+DPC0118,COc1ccc(OC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-11,=,5.81,primary measurement
+DPC0119,CCOc1ccc(OC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-12,=,5.88,primary measurement
+DPC0120,COc1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-01,=,5.87,primary measurement
+DPC0121,CNc1ccc(OC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,6.08,primary measurement
+DPC0122,COc1ccc(N(C)C)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,=,6.27,primary measurement
+DPC0123,COc1ccc(C#N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,=,6.38,primary measurement
+DPC0124,COc1ccc(C(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,=,6.27,primary measurement
+DPC0125,COc1ccc(C(N)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,=,6.13,primary measurement
+DPC0126,CNC(=O)c1ccc(OC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,=,6.11,primary measurement
+DPC0127,COc1ccc(S(N)(=O)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-08,=,5.98,primary measurement
+DPC0128,COc1ccc(OC(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-09,=,6.06,primary measurement
+DPC0129,COc1ccc(N2CCOCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-10,=,6.39,primary measurement
+DPC0130,COc1ccc(C2CC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-11,=,6.21,primary measurement
+DPC0131,COc1ccc(C2CCCCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-12,=,6.39,primary measurement
+DPC0132,COc1ccc(O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-01,=,6.16,primary measurement
+DPC0133,COc1ccc(C(=O)O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,6.1,primary measurement
+DPC0134,CCOc1ccc(OCC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,=,6.13,primary measurement
+DPC0135,CCOc1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,=,5.92,primary measurement
+DPC0136,CCOc1ccc(NC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,=,5.98,primary measurement
+DPC0137,CCOc1ccc(N(C)C)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,=,6.11,primary measurement
+DPC0138,CCOc1ccc(C#N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,<,6.29,primary measurement
+DPC0139,CCOc1ccc(C(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-08,=,6.32,primary measurement
+DPC0140,CCOc1ccc(C(N)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-09,=,6.29,primary measurement
+DPC0141,CCOc1ccc(C(=O)NC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-10,=,6.31,primary measurement
+DPC0142,CCOc1ccc(S(N)(=O)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-11,=,6.09,primary measurement
+DPC0143,CCOc1ccc(OC(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-12,=,6,primary measurement
+DPC0144,CCOc1ccc(N2CCOCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-01,=,6.17,primary measurement
+DPC0145,CCOc1ccc(C2CC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,5.92,primary measurement
+DPC0146,CCOc1ccc(C2CCCCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,=,6.16,primary measurement
+DPC0147,CCOc1ccc(O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,=,6.11,primary measurement
+DPC0148,CCOc1ccc(C(=O)O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,>,6.26,primary measurement
+DPC0149,Nc1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,=,6.18,primary measurement
+DPC0150,CNc1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,=,6.2,primary measurement
+DPC0151,CN(C)c1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-08,=,6.16,primary measurement
+DPC0152,N#Cc1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-09,=,6.15,primary measurement
+DPC0153,Nc1ccc(C(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-10,=,6.06,primary measurement
+DPC0154,NC(=O)c1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-11,=,6.06,primary measurement
+DPC0155,CNC(=O)c1ccc(N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-12,=,6.22,primary measurement
+DPC0156,Nc1ccc(S(N)(=O)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-01,=,6.2,primary measurement
+DPC0157,Nc1ccc(OC(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,6.25,primary measurement
+DPC0158,Nc1ccc(N2CCOCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,=,6.4,primary measurement
+DPC0159,Nc1ccc(C2CC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,=,5.98,primary measurement
+DPC0160,Nc1ccc(C2CCCCC2)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,=,5.96,primary measurement
+DPC0161,Nc1ccc(O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,<,5.67,primary measurement
+DPC0162,Nc1ccc(C(=O)O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,=,5.73,primary measurement
+DPC0163,CNc1ccc(NC)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,6.13,primary measurement
+DPC0164,CNc1ccc(N(C)C)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.33,primary measurement
+DPC0165,CNc1ccc(C#N)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,6.52,primary measurement
+DPC0166,CNc1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,6.49,primary measurement
+DPC0167,CNc1ccc(C(N)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,6.4,primary measurement
+DPC0168,CNC(=O)c1ccc(NC)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,6.37,primary measurement
+DPC0169,CNc1ccc(S(N)(=O)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-02,=,6.18,primary measurement
+DPC0170,CNc1ccc(OC(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-03,=,6.18,primary measurement
+DPC0171,CNc1ccc(N2CCOCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-04,=,6.45,primary measurement
+DPC0172,CNc1ccc(C2CC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-05,=,6.27,primary measurement
+DPC0173,CNc1ccc(C2CCCCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-06,=,6.51,primary measurement
+DPC0174,CNc1ccc(O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-07,=,6.37,primary measurement
+DPC0175,CNc1ccc(C(=O)O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,6.4,primary measurement
+DPC0176,CN(C)c1ccc(N(C)C)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.54,primary measurement
+DPC0177,CN(C)c1ccc(C#N)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,6.48,primary measurement
+DPC0178,CN(C)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,6.31,primary measurement
+DPC0179,CN(C)c1ccc(C(N)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,6.23,primary measurement
+DPC0180,CNC(=O)c1ccc(N(C)C)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,6.35,primary measurement
+DPC0181,CN(C)c1ccc(S(N)(=O)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-02,=,6.34,primary measurement
+DPC0182,CN(C)c1ccc(OC(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-03,=,6.45,primary measurement
+DPC0183,CN(C)c1ccc(N2CCOCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-04,=,6.68,primary measurement
+DPC0184,CN(C)c1ccc(C2CC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-05,<,6.33,primary measurement
+DPC0185,CN(C)c1ccc(C2CCCCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-06,>,6.34,primary measurement
+DPC0186,CN(C)c1ccc(O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-07,=,6.03,primary measurement
+DPC0187,CN(C)c1ccc(C(=O)O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,6.04,primary measurement
+DPC0188,N#Cc1ccc(C#N)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.41,primary measurement
+DPC0189,N#Cc1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,6.47,primary measurement
+DPC0190,N#Cc1ccc(C(N)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,6.57,primary measurement
+DPC0191,CNC(=O)c1ccc(C#N)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,6.74,primary measurement
+DPC0192,N#Cc1ccc(S(N)(=O)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,6.65,primary measurement
+DPC0193,N#Cc1ccc(OC(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-02,=,6.61,primary measurement
+DPC0194,N#Cc1ccc(N2CCOCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-03,=,6.7,primary measurement
+DPC0195,N#Cc1ccc(C2CC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-04,=,6.31,primary measurement
+DPC0196,N#Cc1ccc(C2CCCCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-05,=,6.4,primary measurement
+DPC0197,N#Cc1ccc(O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-06,=,6.25,primary measurement
+DPC0198,N#Cc1ccc(C(=O)O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-07,=,6.4,primary measurement
+DPC0199,FC(F)(F)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,6.62,primary measurement
+DPC0200,NC(=O)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.6,primary measurement
+DPC0201,CNC(=O)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,6.61,primary measurement
+DPC0202,NS(=O)(=O)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,6.38,primary measurement
+DPC0203,FC(F)(F)Oc1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,6.26,primary measurement
+DPC0204,FC(F)(F)c1ccc(N2CCOCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,6.38,primary measurement
+DPC0205,FC(F)(F)c1ccc(C2CC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-02,=,6.08,primary measurement
+DPC0206,FC(F)(F)c1ccc(C2CCCCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-03,=,6.28,primary measurement
+DPC0207,Oc1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-04,<,6.21,primary measurement
+DPC0208,O=C(O)c1ccc(C(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-05,=,6.36,primary measurement
+DPC0209,NC(=O)c1ccc(C(N)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-06,=,6.49,primary measurement
+DPC0210,CNC(=O)c1ccc(C(N)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-07,=,6.51,primary measurement
+DPC0211,NC(=O)c1ccc(S(N)(=O)=O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,6.31,primary measurement
+DPC0212,NC(=O)c1ccc(OC(F)(F)F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.24,primary measurement
+DPC0213,NC(=O)c1ccc(N2CCOCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,6.43,primary measurement
+DPC0214,NC(=O)c1ccc(C2CC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,6.19,primary measurement
+DPC0215,NC(=O)c1ccc(C2CCCCC2)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,6.43,primary measurement
+DPC0216,NC(=O)c1ccc(O)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,6.35,primary measurement
+DPC0217,NC(=O)c1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-02,=,5.91,cross-patent repeat measurement
+DPC0218,CNC(=O)c1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-03,=,5.98,cross-patent repeat measurement
+DPC0219,NS(=O)(=O)c1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-04,=,5.8,cross-patent repeat measurement
+DPC0220,FC(F)(F)Oc1ccc(Br)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-05,=,5.7,cross-patent repeat measurement
+DPC0221,Brc1ccc(N2CCOCC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-06,=,5.83,cross-patent repeat measurement
+DPC0222,Brc1ccc(C2CC2)cc1,DEMO-101-A1,Northstar Therapeutics,2022-03-17,2022,phenyl,ASSAY-01-07,>,5.52,cross-patent repeat measurement
+DPC0223,CCCc1ccc(C(N)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-08,=,5.7,cross-patent repeat measurement
+DPC0224,CCCc1ccc(C(=O)NC)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-09,=,5.88,cross-patent repeat measurement
+DPC0225,CCCc1ccc(S(N)(=O)=O)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-10,=,5.89,cross-patent repeat measurement
+DPC0226,CCCc1ccc(OC(F)(F)F)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-11,=,5.96,cross-patent repeat measurement
+DPC0227,CCCc1ccc(N2CCOCC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-12,=,6.14,cross-patent repeat measurement
+DPC0228,CCCc1ccc(C2CC2)cc1,DEMO-102-A1,Helixbridge Pharma,2022-10-06,2022,phenyl,ASSAY-02-01,=,5.75,cross-patent repeat measurement
+DPC0229,CNc1ccc(NC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-02,=,5.89,cross-patent repeat measurement
+DPC0230,CNc1ccc(N(C)C)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-03,<,5.94,cross-patent repeat measurement
+DPC0231,CNc1ccc(C#N)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-04,=,6.09,cross-patent repeat measurement
+DPC0232,CNc1ccc(C(F)(F)F)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-05,=,6.17,cross-patent repeat measurement
+DPC0233,CNc1ccc(C(N)=O)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-06,=,6.3,cross-patent repeat measurement
+DPC0234,CNC(=O)c1ccc(NC)cc1,DEMO-103-A1,Kestrel BioDiscovery,2023-07-13,2023,phenyl,ASSAY-03-07,=,6.49,cross-patent repeat measurement
+DPC0235,Fc1ccc(F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-08,=,5.96,cross-patent repeat measurement
+DPC0236,Fc1ccc(Cl)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-09,=,6.05,cross-patent repeat measurement
+DPC0237,Fc1ccc(Br)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-10,=,5.94,cross-patent repeat measurement
+DPC0238,Cc1ccc(F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-11,=,5.79,cross-patent repeat measurement
+DPC0239,CCc1ccc(F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-12,=,5.87,cross-patent repeat measurement
+DPC0240,CCCc1ccc(F)cc1,DEMO-104-A1,Mosaic Medicines,2024-11-21,2024,phenyl,ASSAY-04-01,=,5.89,cross-patent repeat measurement

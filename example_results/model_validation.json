@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "analysis_column": "pIC50",
+  "algorithm": "RandomForestRegressor on radius-2 Morgan fingerprints",
+  "split": "deterministic scaffold-group holdout nearest 25%",
+  "random_seed": 42,
+  "n_compounds": 203,
+  "n_scaffolds": 4,
+  "conformal_coverage_target": 0.9,
+  "conformal_radius": 0.4135666666666902,
+  "holdout_metrics": {
+    "n": 14,
+    "mae": 0.2776092857142874,
+    "rmse": 0.3221988251175698,
+    "r2": -0.6394066898552058,
+    "spearman": 0.7186813186813187
+  },
+  "mean_baseline_mae": 0.3201473922902494,
+  "leave_one_patent_out_metrics": {
+    "n": 203,
+    "mae": 0.3058979064039398,
+    "rmse": 0.37666251616907875,
+    "r2": -0.3786838010227207,
+    "spearman": 0.13857519826948297
+  }
+}

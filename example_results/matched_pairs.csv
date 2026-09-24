@@ -1,0 +1,501 @@
+compound_a,compound_b,shared_core,fragment_a,fragment_b,assignees_a,assignees_b,pIC50_median_a,pIC50_median_b,activity_delta_b_minus_a
+DPC0001,DPC0002,Fc1ccc([*:1])cc1,F[*:1],Cl[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.75,5.885,0.1349999999999998
+DPC0001,DPC0003,Fc1ccc([*:1])cc1,F[*:1],Br[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.75,5.79,0.040000000000000036
+DPC0001,DPC0004,Fc1ccc([*:1])cc1,F[*:1],C[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.75,5.62,-0.1299999999999999
+DPC0001,DPC0005,Fc1ccc([*:1])cc1,F[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.75,5.63,-0.1200000000000001
+DPC0001,DPC0006,Fc1ccc([*:1])cc1,F[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.75,5.5649999999999995,-0.1850000000000005
+DPC0001,DPC0007,Fc1ccc([*:1])cc1,F[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.35,-0.40000000000000036
+DPC0001,DPC0008,Fc1ccc([*:1])cc1,F[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.47,-0.28000000000000025
+DPC0001,DPC0009,Fc1ccc([*:1])cc1,F[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.48,-0.2699999999999996
+DPC0001,DPC0010,Fc1ccc([*:1])cc1,F[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.65,-0.09999999999999964
+DPC0001,DPC0011,Fc1ccc([*:1])cc1,F[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.75,0.0
+DPC0001,DPC0012,Fc1ccc([*:1])cc1,F[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.77,0.019999999999999574
+DPC0001,DPC0013,Fc1ccc([*:1])cc1,F[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.6,-0.15000000000000036
+DPC0001,DPC0014,Fc1ccc([*:1])cc1,F[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.46,-0.29000000000000004
+DPC0001,DPC0015,Fc1ccc([*:1])cc1,F[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.5,-0.25
+DPC0001,DPC0016,Fc1ccc([*:1])cc1,F[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.45,-0.2999999999999998
+DPC0001,DPC0017,Fc1ccc([*:1])cc1,F[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.6,-0.15000000000000036
+DPC0001,DPC0018,Fc1ccc([*:1])cc1,F[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.95,0.20000000000000018
+DPC0001,DPC0019,Fc1ccc([*:1])cc1,F[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.74,-0.009999999999999787
+DPC0001,DPC0020,Fc1ccc([*:1])cc1,F[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.86,0.11000000000000032
+DPC0001,DPC0021,Fc1ccc([*:1])cc1,F[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.58,-0.16999999999999993
+DPC0001,DPC0022,Fc1ccc([*:1])cc1,F[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.75,5.51,-0.2400000000000002
+DPC0002,DPC0003,Fc1ccc([*:1])cc1,Cl[*:1],Br[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.885,5.79,-0.09499999999999975
+DPC0002,DPC0004,Fc1ccc([*:1])cc1,Cl[*:1],C[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.885,5.62,-0.2649999999999997
+DPC0002,DPC0005,Fc1ccc([*:1])cc1,Cl[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.885,5.63,-0.2549999999999999
+DPC0002,DPC0006,Fc1ccc([*:1])cc1,Cl[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.885,5.5649999999999995,-0.3200000000000003
+DPC0002,DPC0007,Fc1ccc([*:1])cc1,Cl[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.35,-0.5350000000000001
+DPC0002,DPC0008,Fc1ccc([*:1])cc1,Cl[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.47,-0.41500000000000004
+DPC0002,DPC0009,Fc1ccc([*:1])cc1,Cl[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.48,-0.40499999999999936
+DPC0002,DPC0010,Fc1ccc([*:1])cc1,Cl[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.65,-0.23499999999999943
+DPC0002,DPC0011,Fc1ccc([*:1])cc1,Cl[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.75,-0.1349999999999998
+DPC0002,DPC0012,Fc1ccc([*:1])cc1,Cl[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.77,-0.11500000000000021
+DPC0002,DPC0013,Fc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.6,-0.28500000000000014
+DPC0002,DPC0014,Fc1ccc([*:1])cc1,Cl[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.46,-0.4249999999999998
+DPC0002,DPC0015,Fc1ccc([*:1])cc1,Cl[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.5,-0.3849999999999998
+DPC0002,DPC0016,Fc1ccc([*:1])cc1,Cl[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.45,-0.4349999999999996
+DPC0002,DPC0017,Fc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.6,-0.28500000000000014
+DPC0002,DPC0018,Fc1ccc([*:1])cc1,Cl[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.95,0.06500000000000039
+DPC0002,DPC0019,Fc1ccc([*:1])cc1,Cl[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.74,-0.14499999999999957
+DPC0002,DPC0020,Fc1ccc([*:1])cc1,Cl[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.86,-0.024999999999999467
+DPC0002,DPC0021,Fc1ccc([*:1])cc1,Cl[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.58,-0.3049999999999997
+DPC0002,DPC0022,Fc1ccc([*:1])cc1,Cl[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.51,-0.375
+DPC0003,DPC0004,Fc1ccc([*:1])cc1,Br[*:1],C[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.79,5.62,-0.16999999999999993
+DPC0003,DPC0005,Fc1ccc([*:1])cc1,Br[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.79,5.63,-0.16000000000000014
+DPC0003,DPC0006,Fc1ccc([*:1])cc1,Br[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.79,5.5649999999999995,-0.22500000000000053
+DPC0003,DPC0007,Fc1ccc([*:1])cc1,Br[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.35,-0.4400000000000004
+DPC0003,DPC0008,Fc1ccc([*:1])cc1,Br[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.47,-0.3200000000000003
+DPC0003,DPC0009,Fc1ccc([*:1])cc1,Br[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.48,-0.3099999999999996
+DPC0003,DPC0010,Fc1ccc([*:1])cc1,Br[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.65,-0.13999999999999968
+DPC0003,DPC0011,Fc1ccc([*:1])cc1,Br[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.75,-0.040000000000000036
+DPC0003,DPC0012,Fc1ccc([*:1])cc1,Br[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.77,-0.020000000000000462
+DPC0003,DPC0013,Fc1ccc([*:1])cc1,Br[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.6,-0.1900000000000004
+DPC0003,DPC0014,Fc1ccc([*:1])cc1,Br[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.46,-0.33000000000000007
+DPC0003,DPC0015,Fc1ccc([*:1])cc1,Br[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.5,-0.29000000000000004
+DPC0003,DPC0016,Fc1ccc([*:1])cc1,Br[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.45,-0.33999999999999986
+DPC0003,DPC0017,Fc1ccc([*:1])cc1,Br[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.6,-0.1900000000000004
+DPC0003,DPC0018,Fc1ccc([*:1])cc1,Br[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.95,0.16000000000000014
+DPC0003,DPC0019,Fc1ccc([*:1])cc1,Br[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.74,-0.04999999999999982
+DPC0003,DPC0020,Fc1ccc([*:1])cc1,Br[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.86,0.07000000000000028
+DPC0003,DPC0021,Fc1ccc([*:1])cc1,Br[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.58,-0.20999999999999996
+DPC0003,DPC0022,Fc1ccc([*:1])cc1,Br[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.51,-0.28000000000000025
+DPC0004,DPC0005,Fc1ccc([*:1])cc1,C[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.62,5.63,0.009999999999999787
+DPC0004,DPC0006,Fc1ccc([*:1])cc1,C[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.62,5.5649999999999995,-0.055000000000000604
+DPC0004,DPC0007,Fc1ccc([*:1])cc1,C[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.35,-0.27000000000000046
+DPC0004,DPC0008,Fc1ccc([*:1])cc1,C[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.47,-0.15000000000000036
+DPC0004,DPC0009,Fc1ccc([*:1])cc1,C[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.48,-0.13999999999999968
+DPC0004,DPC0010,Fc1ccc([*:1])cc1,C[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.65,0.03000000000000025
+DPC0004,DPC0011,Fc1ccc([*:1])cc1,C[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.75,0.1299999999999999
+DPC0004,DPC0012,Fc1ccc([*:1])cc1,C[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.77,0.14999999999999947
+DPC0004,DPC0013,Fc1ccc([*:1])cc1,C[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.6,-0.020000000000000462
+DPC0004,DPC0014,Fc1ccc([*:1])cc1,C[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.46,-0.16000000000000014
+DPC0004,DPC0015,Fc1ccc([*:1])cc1,C[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.5,-0.1200000000000001
+DPC0004,DPC0016,Fc1ccc([*:1])cc1,C[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.45,-0.16999999999999993
+DPC0004,DPC0017,Fc1ccc([*:1])cc1,C[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.6,-0.020000000000000462
+DPC0004,DPC0018,Fc1ccc([*:1])cc1,C[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.95,0.33000000000000007
+DPC0004,DPC0019,Fc1ccc([*:1])cc1,C[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.74,0.1200000000000001
+DPC0004,DPC0020,Fc1ccc([*:1])cc1,C[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.86,0.2400000000000002
+DPC0004,DPC0021,Fc1ccc([*:1])cc1,C[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.58,-0.040000000000000036
+DPC0004,DPC0022,Fc1ccc([*:1])cc1,C[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.62,5.51,-0.11000000000000032
+DPC0005,DPC0006,Fc1ccc([*:1])cc1,CC[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Mosaic Medicines | Northstar Therapeutics,5.63,5.5649999999999995,-0.06500000000000039
+DPC0005,DPC0007,Fc1ccc([*:1])cc1,CC[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.35,-0.28000000000000025
+DPC0005,DPC0008,Fc1ccc([*:1])cc1,CC[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.47,-0.16000000000000014
+DPC0005,DPC0009,Fc1ccc([*:1])cc1,CC[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.48,-0.14999999999999947
+DPC0005,DPC0010,Fc1ccc([*:1])cc1,CC[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.65,0.020000000000000462
+DPC0005,DPC0011,Fc1ccc([*:1])cc1,CC[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.75,0.1200000000000001
+DPC0005,DPC0012,Fc1ccc([*:1])cc1,CC[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.77,0.13999999999999968
+DPC0005,DPC0013,Fc1ccc([*:1])cc1,CC[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.6,-0.03000000000000025
+DPC0005,DPC0014,Fc1ccc([*:1])cc1,CC[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.46,-0.16999999999999993
+DPC0005,DPC0015,Fc1ccc([*:1])cc1,CC[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.5,-0.1299999999999999
+DPC0005,DPC0016,Fc1ccc([*:1])cc1,CC[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.45,-0.17999999999999972
+DPC0005,DPC0017,Fc1ccc([*:1])cc1,CC[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.6,-0.03000000000000025
+DPC0005,DPC0018,Fc1ccc([*:1])cc1,CC[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.95,0.3200000000000003
+DPC0005,DPC0019,Fc1ccc([*:1])cc1,CC[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.74,0.11000000000000032
+DPC0005,DPC0020,Fc1ccc([*:1])cc1,CC[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.86,0.23000000000000043
+DPC0005,DPC0021,Fc1ccc([*:1])cc1,CC[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.58,-0.04999999999999982
+DPC0005,DPC0022,Fc1ccc([*:1])cc1,CC[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.63,5.51,-0.1200000000000001
+DPC0006,DPC0007,Fc1ccc([*:1])cc1,CCC[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.35,-0.21499999999999986
+DPC0006,DPC0008,Fc1ccc([*:1])cc1,CCC[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.47,-0.09499999999999975
+DPC0006,DPC0009,Fc1ccc([*:1])cc1,CCC[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.48,-0.08499999999999908
+DPC0006,DPC0010,Fc1ccc([*:1])cc1,CCC[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.65,0.08500000000000085
+DPC0006,DPC0011,Fc1ccc([*:1])cc1,CCC[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.75,0.1850000000000005
+DPC0006,DPC0012,Fc1ccc([*:1])cc1,CCC[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.77,0.20500000000000007
+DPC0006,DPC0013,Fc1ccc([*:1])cc1,CCC[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.6,0.03500000000000014
+DPC0006,DPC0014,Fc1ccc([*:1])cc1,CCC[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.46,-0.10499999999999954
+DPC0006,DPC0015,Fc1ccc([*:1])cc1,CCC[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.5,-0.0649999999999995
+DPC0006,DPC0016,Fc1ccc([*:1])cc1,CCC[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.45,-0.11499999999999932
+DPC0006,DPC0017,Fc1ccc([*:1])cc1,CCC[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.6,0.03500000000000014
+DPC0006,DPC0018,Fc1ccc([*:1])cc1,CCC[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.95,0.3850000000000007
+DPC0006,DPC0019,Fc1ccc([*:1])cc1,CCC[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.74,0.1750000000000007
+DPC0006,DPC0020,Fc1ccc([*:1])cc1,CCC[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.86,0.2950000000000008
+DPC0006,DPC0021,Fc1ccc([*:1])cc1,CCC[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.58,0.015000000000000568
+DPC0006,DPC0022,Fc1ccc([*:1])cc1,CCC[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.5649999999999995,5.51,-0.054999999999999716
+DPC0007,DPC0008,Fc1ccc([*:1])cc1,CO[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.47,0.1200000000000001
+DPC0007,DPC0009,Fc1ccc([*:1])cc1,CO[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.48,0.13000000000000078
+DPC0007,DPC0010,Fc1ccc([*:1])cc1,CO[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.65,0.3000000000000007
+DPC0007,DPC0011,Fc1ccc([*:1])cc1,CO[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.75,0.40000000000000036
+DPC0007,DPC0012,Fc1ccc([*:1])cc1,CO[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.77,0.41999999999999993
+DPC0007,DPC0013,Fc1ccc([*:1])cc1,CO[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.6,0.25
+DPC0007,DPC0014,Fc1ccc([*:1])cc1,CO[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.46,0.11000000000000032
+DPC0007,DPC0015,Fc1ccc([*:1])cc1,CO[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.5,0.15000000000000036
+DPC0007,DPC0016,Fc1ccc([*:1])cc1,CO[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.45,0.10000000000000053
+DPC0007,DPC0017,Fc1ccc([*:1])cc1,CO[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.6,0.25
+DPC0007,DPC0018,Fc1ccc([*:1])cc1,CO[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.35,5.95,0.6000000000000005
+DPC0007,DPC0019,Fc1ccc([*:1])cc1,CO[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.74,0.39000000000000057
+DPC0007,DPC0020,Fc1ccc([*:1])cc1,CO[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.35,5.86,0.5100000000000007
+DPC0007,DPC0021,Fc1ccc([*:1])cc1,CO[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.58,0.23000000000000043
+DPC0007,DPC0022,Fc1ccc([*:1])cc1,CO[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.35,5.51,0.16000000000000014
+DPC0008,DPC0009,Fc1ccc([*:1])cc1,CCO[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.48,0.010000000000000675
+DPC0008,DPC0010,Fc1ccc([*:1])cc1,CCO[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.65,0.1800000000000006
+DPC0008,DPC0011,Fc1ccc([*:1])cc1,CCO[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.75,0.28000000000000025
+DPC0008,DPC0012,Fc1ccc([*:1])cc1,CCO[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.77,0.2999999999999998
+DPC0008,DPC0013,Fc1ccc([*:1])cc1,CCO[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.6,0.1299999999999999
+DPC0008,DPC0014,Fc1ccc([*:1])cc1,CCO[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.46,-0.009999999999999787
+DPC0008,DPC0015,Fc1ccc([*:1])cc1,CCO[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.5,0.03000000000000025
+DPC0008,DPC0016,Fc1ccc([*:1])cc1,CCO[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.45,-0.019999999999999574
+DPC0008,DPC0017,Fc1ccc([*:1])cc1,CCO[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.6,0.1299999999999999
+DPC0008,DPC0018,Fc1ccc([*:1])cc1,CCO[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.47,5.95,0.4800000000000004
+DPC0008,DPC0019,Fc1ccc([*:1])cc1,CCO[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.74,0.27000000000000046
+DPC0008,DPC0020,Fc1ccc([*:1])cc1,CCO[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.47,5.86,0.39000000000000057
+DPC0008,DPC0021,Fc1ccc([*:1])cc1,CCO[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.58,0.11000000000000032
+DPC0008,DPC0022,Fc1ccc([*:1])cc1,CCO[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.47,5.51,0.040000000000000036
+DPC0009,DPC0010,Fc1ccc([*:1])cc1,N[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.65,0.16999999999999993
+DPC0009,DPC0011,Fc1ccc([*:1])cc1,N[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.75,0.2699999999999996
+DPC0009,DPC0012,Fc1ccc([*:1])cc1,N[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.77,0.28999999999999915
+DPC0009,DPC0013,Fc1ccc([*:1])cc1,N[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.6,0.11999999999999922
+DPC0009,DPC0014,Fc1ccc([*:1])cc1,N[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.46,-0.020000000000000462
+DPC0009,DPC0015,Fc1ccc([*:1])cc1,N[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.5,0.019999999999999574
+DPC0009,DPC0016,Fc1ccc([*:1])cc1,N[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.45,-0.03000000000000025
+DPC0009,DPC0017,Fc1ccc([*:1])cc1,N[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.6,0.11999999999999922
+DPC0009,DPC0018,Fc1ccc([*:1])cc1,N[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.48,5.95,0.46999999999999975
+DPC0009,DPC0019,Fc1ccc([*:1])cc1,N[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.74,0.2599999999999998
+DPC0009,DPC0020,Fc1ccc([*:1])cc1,N[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.48,5.86,0.3799999999999999
+DPC0009,DPC0021,Fc1ccc([*:1])cc1,N[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.58,0.09999999999999964
+DPC0009,DPC0022,Fc1ccc([*:1])cc1,N[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.51,0.02999999999999936
+DPC0010,DPC0011,Fc1ccc([*:1])cc1,CN[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.75,0.09999999999999964
+DPC0010,DPC0012,Fc1ccc([*:1])cc1,CN[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.77,0.11999999999999922
+DPC0010,DPC0013,Fc1ccc([*:1])cc1,CN[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.6,-0.05000000000000071
+DPC0010,DPC0014,Fc1ccc([*:1])cc1,CN[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.46,-0.1900000000000004
+DPC0010,DPC0015,Fc1ccc([*:1])cc1,CN[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.5,-0.15000000000000036
+DPC0010,DPC0016,Fc1ccc([*:1])cc1,CN[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.45,-0.20000000000000018
+DPC0010,DPC0017,Fc1ccc([*:1])cc1,CN[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.6,-0.05000000000000071
+DPC0010,DPC0018,Fc1ccc([*:1])cc1,CN[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.65,5.95,0.2999999999999998
+DPC0010,DPC0019,Fc1ccc([*:1])cc1,CN[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.74,0.08999999999999986
+DPC0010,DPC0020,Fc1ccc([*:1])cc1,CN[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.65,5.86,0.20999999999999996
+DPC0010,DPC0021,Fc1ccc([*:1])cc1,CN[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.58,-0.07000000000000028
+DPC0010,DPC0022,Fc1ccc([*:1])cc1,CN[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.65,5.51,-0.14000000000000057
+DPC0011,DPC0012,Fc1ccc([*:1])cc1,CN(C)[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.77,0.019999999999999574
+DPC0011,DPC0013,Fc1ccc([*:1])cc1,CN(C)[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.6,-0.15000000000000036
+DPC0011,DPC0014,Fc1ccc([*:1])cc1,CN(C)[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.46,-0.29000000000000004
+DPC0011,DPC0015,Fc1ccc([*:1])cc1,CN(C)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.5,-0.25
+DPC0011,DPC0016,Fc1ccc([*:1])cc1,CN(C)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.45,-0.2999999999999998
+DPC0011,DPC0017,Fc1ccc([*:1])cc1,CN(C)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.6,-0.15000000000000036
+DPC0011,DPC0018,Fc1ccc([*:1])cc1,CN(C)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.75,5.95,0.20000000000000018
+DPC0011,DPC0019,Fc1ccc([*:1])cc1,CN(C)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.74,-0.009999999999999787
+DPC0011,DPC0020,Fc1ccc([*:1])cc1,CN(C)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.75,5.86,0.11000000000000032
+DPC0011,DPC0021,Fc1ccc([*:1])cc1,CN(C)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.58,-0.16999999999999993
+DPC0011,DPC0022,Fc1ccc([*:1])cc1,CN(C)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.75,5.51,-0.2400000000000002
+DPC0012,DPC0013,Fc1ccc([*:1])cc1,N#C[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.6,-0.16999999999999993
+DPC0012,DPC0014,Fc1ccc([*:1])cc1,N#C[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.46,-0.3099999999999996
+DPC0012,DPC0015,Fc1ccc([*:1])cc1,N#C[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.5,-0.2699999999999996
+DPC0012,DPC0016,Fc1ccc([*:1])cc1,N#C[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.45,-0.3199999999999994
+DPC0012,DPC0017,Fc1ccc([*:1])cc1,N#C[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.6,-0.16999999999999993
+DPC0012,DPC0018,Fc1ccc([*:1])cc1,N#C[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.77,5.95,0.1800000000000006
+DPC0012,DPC0019,Fc1ccc([*:1])cc1,N#C[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.74,-0.02999999999999936
+DPC0012,DPC0020,Fc1ccc([*:1])cc1,N#C[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.77,5.86,0.09000000000000075
+DPC0012,DPC0021,Fc1ccc([*:1])cc1,N#C[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.58,-0.1899999999999995
+DPC0012,DPC0022,Fc1ccc([*:1])cc1,N#C[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.51,-0.2599999999999998
+DPC0013,DPC0014,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.46,-0.13999999999999968
+DPC0013,DPC0015,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.5,-0.09999999999999964
+DPC0013,DPC0016,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.45,-0.14999999999999947
+DPC0013,DPC0017,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.6,0.0
+DPC0013,DPC0018,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.6,5.95,0.35000000000000053
+DPC0013,DPC0019,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.74,0.14000000000000057
+DPC0013,DPC0020,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.6,5.86,0.2600000000000007
+DPC0013,DPC0021,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.58,-0.019999999999999574
+DPC0013,DPC0022,Fc1ccc([*:1])cc1,FC(F)(F)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.51,-0.08999999999999986
+DPC0014,DPC0015,Fc1ccc([*:1])cc1,NC(=O)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.5,0.040000000000000036
+DPC0014,DPC0016,Fc1ccc([*:1])cc1,NC(=O)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.45,-0.009999999999999787
+DPC0014,DPC0017,Fc1ccc([*:1])cc1,NC(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.6,0.13999999999999968
+DPC0014,DPC0018,Fc1ccc([*:1])cc1,NC(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.46,5.95,0.4900000000000002
+DPC0014,DPC0019,Fc1ccc([*:1])cc1,NC(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.74,0.28000000000000025
+DPC0014,DPC0020,Fc1ccc([*:1])cc1,NC(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.46,5.86,0.40000000000000036
+DPC0014,DPC0021,Fc1ccc([*:1])cc1,NC(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.58,0.1200000000000001
+DPC0014,DPC0022,Fc1ccc([*:1])cc1,NC(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.51,0.04999999999999982
+DPC0015,DPC0016,Fc1ccc([*:1])cc1,CNC(=O)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.5,5.45,-0.04999999999999982
+DPC0015,DPC0017,Fc1ccc([*:1])cc1,CNC(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.5,5.6,0.09999999999999964
+DPC0015,DPC0018,Fc1ccc([*:1])cc1,CNC(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.5,5.95,0.4500000000000002
+DPC0015,DPC0019,Fc1ccc([*:1])cc1,CNC(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.5,5.74,0.2400000000000002
+DPC0015,DPC0020,Fc1ccc([*:1])cc1,CNC(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.5,5.86,0.3600000000000003
+DPC0015,DPC0021,Fc1ccc([*:1])cc1,CNC(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.5,5.58,0.08000000000000007
+DPC0015,DPC0022,Fc1ccc([*:1])cc1,CNC(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.5,5.51,0.009999999999999787
+DPC0016,DPC0017,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.45,5.6,0.14999999999999947
+DPC0016,DPC0018,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.45,5.95,0.5
+DPC0016,DPC0019,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.45,5.74,0.29000000000000004
+DPC0016,DPC0020,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.45,5.86,0.41000000000000014
+DPC0016,DPC0021,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.45,5.58,0.1299999999999999
+DPC0016,DPC0022,Fc1ccc([*:1])cc1,NS(=O)(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.45,5.51,0.05999999999999961
+DPC0017,DPC0018,Fc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.6,5.95,0.35000000000000053
+DPC0017,DPC0019,Fc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.74,0.14000000000000057
+DPC0017,DPC0020,Fc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.6,5.86,0.2600000000000007
+DPC0017,DPC0021,Fc1ccc([*:1])cc1,FC(F)(F)O[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.58,-0.019999999999999574
+DPC0017,DPC0022,Fc1ccc([*:1])cc1,FC(F)(F)O[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.6,5.51,-0.08999999999999986
+DPC0018,DPC0019,Fc1ccc([*:1])cc1,C1CN([*:1])CCO1,C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.95,5.74,-0.20999999999999996
+DPC0018,DPC0020,Fc1ccc([*:1])cc1,C1CN([*:1])CCO1,C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.95,5.86,-0.08999999999999986
+DPC0018,DPC0021,Fc1ccc([*:1])cc1,C1CN([*:1])CCO1,O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.95,5.58,-0.3700000000000001
+DPC0018,DPC0022,Fc1ccc([*:1])cc1,C1CN([*:1])CCO1,O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.95,5.51,-0.4400000000000004
+DPC0019,DPC0020,Fc1ccc([*:1])cc1,C1CC1[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.74,5.86,0.1200000000000001
+DPC0019,DPC0021,Fc1ccc([*:1])cc1,C1CC1[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.74,5.58,-0.16000000000000014
+DPC0019,DPC0022,Fc1ccc([*:1])cc1,C1CC1[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.74,5.51,-0.23000000000000043
+DPC0020,DPC0021,Fc1ccc([*:1])cc1,C1CCC([*:1])CC1,O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.86,5.58,-0.28000000000000025
+DPC0020,DPC0022,Fc1ccc([*:1])cc1,C1CCC([*:1])CC1,O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.86,5.51,-0.35000000000000053
+DPC0021,DPC0022,Fc1ccc([*:1])cc1,O[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.58,5.51,-0.07000000000000028
+DPC0002,DPC0023,Clc1ccc([*:1])cc1,F[*:1],Cl[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,,
+DPC0002,DPC0024,Clc1ccc([*:1])cc1,F[*:1],Br[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.48,-0.40499999999999936
+DPC0002,DPC0025,Clc1ccc([*:1])cc1,F[*:1],C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.46,-0.4249999999999998
+DPC0002,DPC0026,Clc1ccc([*:1])cc1,F[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.64,-0.2450000000000001
+DPC0002,DPC0027,Clc1ccc([*:1])cc1,F[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.67,-0.21499999999999986
+DPC0002,DPC0028,Clc1ccc([*:1])cc1,F[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.82,-0.0649999999999995
+DPC0002,DPC0029,Clc1ccc([*:1])cc1,F[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.81,-0.07500000000000018
+DPC0002,DPC0030,Clc1ccc([*:1])cc1,F[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.59,-0.29499999999999993
+DPC0002,DPC0031,Clc1ccc([*:1])cc1,F[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.54,-0.34499999999999975
+DPC0002,DPC0032,Clc1ccc([*:1])cc1,F[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.54,-0.34499999999999975
+DPC0002,DPC0033,Clc1ccc([*:1])cc1,F[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.64,-0.2450000000000001
+DPC0002,DPC0034,Clc1ccc([*:1])cc1,F[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.69,-0.1949999999999994
+DPC0002,DPC0035,Clc1ccc([*:1])cc1,F[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.77,-0.11500000000000021
+DPC0002,DPC0036,Clc1ccc([*:1])cc1,F[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.94,0.055000000000000604
+DPC0002,DPC0037,Clc1ccc([*:1])cc1,F[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,,
+DPC0002,DPC0038,Clc1ccc([*:1])cc1,F[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.83,-0.054999999999999716
+DPC0002,DPC0039,Clc1ccc([*:1])cc1,F[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.94,0.055000000000000604
+DPC0002,DPC0040,Clc1ccc([*:1])cc1,F[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.56,-0.3250000000000002
+DPC0002,DPC0041,Clc1ccc([*:1])cc1,F[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.66,-0.22499999999999964
+DPC0002,DPC0042,Clc1ccc([*:1])cc1,F[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.53,-0.35499999999999954
+DPC0002,DPC0043,Clc1ccc([*:1])cc1,F[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.885,5.7,-0.1849999999999996
+DPC0023,DPC0024,Clc1ccc([*:1])cc1,Cl[*:1],Br[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.48,
+DPC0023,DPC0025,Clc1ccc([*:1])cc1,Cl[*:1],C[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.46,
+DPC0023,DPC0026,Clc1ccc([*:1])cc1,Cl[*:1],CC[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.64,
+DPC0023,DPC0027,Clc1ccc([*:1])cc1,Cl[*:1],CCC[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.67,
+DPC0023,DPC0028,Clc1ccc([*:1])cc1,Cl[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.82,
+DPC0023,DPC0029,Clc1ccc([*:1])cc1,Cl[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.81,
+DPC0023,DPC0030,Clc1ccc([*:1])cc1,Cl[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.59,
+DPC0023,DPC0031,Clc1ccc([*:1])cc1,Cl[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.54,
+DPC0023,DPC0032,Clc1ccc([*:1])cc1,Cl[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.54,
+DPC0023,DPC0033,Clc1ccc([*:1])cc1,Cl[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.64,
+DPC0023,DPC0034,Clc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.69,
+DPC0023,DPC0035,Clc1ccc([*:1])cc1,Cl[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.77,
+DPC0023,DPC0036,Clc1ccc([*:1])cc1,Cl[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.94,
+DPC0023,DPC0037,Clc1ccc([*:1])cc1,Cl[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,,,
+DPC0023,DPC0038,Clc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.83,
+DPC0023,DPC0039,Clc1ccc([*:1])cc1,Cl[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,,5.94,
+DPC0023,DPC0040,Clc1ccc([*:1])cc1,Cl[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.56,
+DPC0023,DPC0041,Clc1ccc([*:1])cc1,Cl[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,,5.66,
+DPC0023,DPC0042,Clc1ccc([*:1])cc1,Cl[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.53,
+DPC0023,DPC0043,Clc1ccc([*:1])cc1,Cl[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.7,
+DPC0024,DPC0025,Clc1ccc([*:1])cc1,Br[*:1],C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.46,-0.020000000000000462
+DPC0024,DPC0026,Clc1ccc([*:1])cc1,Br[*:1],CC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.64,0.15999999999999925
+DPC0024,DPC0027,Clc1ccc([*:1])cc1,Br[*:1],CCC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.67,0.1899999999999995
+DPC0024,DPC0028,Clc1ccc([*:1])cc1,Br[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.82,0.33999999999999986
+DPC0024,DPC0029,Clc1ccc([*:1])cc1,Br[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.81,0.3299999999999992
+DPC0024,DPC0030,Clc1ccc([*:1])cc1,Br[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.59,0.10999999999999943
+DPC0024,DPC0031,Clc1ccc([*:1])cc1,Br[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.54,0.05999999999999961
+DPC0024,DPC0032,Clc1ccc([*:1])cc1,Br[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.54,0.05999999999999961
+DPC0024,DPC0033,Clc1ccc([*:1])cc1,Br[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.64,0.15999999999999925
+DPC0024,DPC0034,Clc1ccc([*:1])cc1,Br[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.69,0.20999999999999996
+DPC0024,DPC0035,Clc1ccc([*:1])cc1,Br[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.77,0.28999999999999915
+DPC0024,DPC0036,Clc1ccc([*:1])cc1,Br[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.94,0.45999999999999996
+DPC0024,DPC0037,Clc1ccc([*:1])cc1,Br[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,,
+DPC0024,DPC0038,Clc1ccc([*:1])cc1,Br[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.83,0.34999999999999964
+DPC0024,DPC0039,Clc1ccc([*:1])cc1,Br[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.48,5.94,0.45999999999999996
+DPC0024,DPC0040,Clc1ccc([*:1])cc1,Br[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.56,0.07999999999999918
+DPC0024,DPC0041,Clc1ccc([*:1])cc1,Br[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.48,5.66,0.17999999999999972
+DPC0024,DPC0042,Clc1ccc([*:1])cc1,Br[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.53,0.04999999999999982
+DPC0024,DPC0043,Clc1ccc([*:1])cc1,Br[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.7,0.21999999999999975
+DPC0025,DPC0026,Clc1ccc([*:1])cc1,C[*:1],CC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.64,0.17999999999999972
+DPC0025,DPC0027,Clc1ccc([*:1])cc1,C[*:1],CCC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.67,0.20999999999999996
+DPC0025,DPC0028,Clc1ccc([*:1])cc1,C[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.82,0.3600000000000003
+DPC0025,DPC0029,Clc1ccc([*:1])cc1,C[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.81,0.34999999999999964
+DPC0025,DPC0030,Clc1ccc([*:1])cc1,C[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.59,0.1299999999999999
+DPC0025,DPC0031,Clc1ccc([*:1])cc1,C[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.54,0.08000000000000007
+DPC0025,DPC0032,Clc1ccc([*:1])cc1,C[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.54,0.08000000000000007
+DPC0025,DPC0033,Clc1ccc([*:1])cc1,C[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.64,0.17999999999999972
+DPC0025,DPC0034,Clc1ccc([*:1])cc1,C[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.69,0.23000000000000043
+DPC0025,DPC0035,Clc1ccc([*:1])cc1,C[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.77,0.3099999999999996
+DPC0025,DPC0036,Clc1ccc([*:1])cc1,C[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.94,0.4800000000000004
+DPC0025,DPC0037,Clc1ccc([*:1])cc1,C[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,,
+DPC0025,DPC0038,Clc1ccc([*:1])cc1,C[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.83,0.3700000000000001
+DPC0025,DPC0039,Clc1ccc([*:1])cc1,C[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.46,5.94,0.4800000000000004
+DPC0025,DPC0040,Clc1ccc([*:1])cc1,C[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.56,0.09999999999999964
+DPC0025,DPC0041,Clc1ccc([*:1])cc1,C[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.46,5.66,0.20000000000000018
+DPC0025,DPC0042,Clc1ccc([*:1])cc1,C[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.53,0.07000000000000028
+DPC0025,DPC0043,Clc1ccc([*:1])cc1,C[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.46,5.7,0.2400000000000002
+DPC0026,DPC0027,Clc1ccc([*:1])cc1,CC[*:1],CCC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.67,0.03000000000000025
+DPC0026,DPC0028,Clc1ccc([*:1])cc1,CC[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.82,0.1800000000000006
+DPC0026,DPC0029,Clc1ccc([*:1])cc1,CC[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.81,0.16999999999999993
+DPC0026,DPC0030,Clc1ccc([*:1])cc1,CC[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.59,-0.04999999999999982
+DPC0026,DPC0031,Clc1ccc([*:1])cc1,CC[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.54,-0.09999999999999964
+DPC0026,DPC0032,Clc1ccc([*:1])cc1,CC[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.54,-0.09999999999999964
+DPC0026,DPC0033,Clc1ccc([*:1])cc1,CC[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.64,0.0
+DPC0026,DPC0034,Clc1ccc([*:1])cc1,CC[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.69,0.05000000000000071
+DPC0026,DPC0035,Clc1ccc([*:1])cc1,CC[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.77,0.1299999999999999
+DPC0026,DPC0036,Clc1ccc([*:1])cc1,CC[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.94,0.3000000000000007
+DPC0026,DPC0037,Clc1ccc([*:1])cc1,CC[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,,
+DPC0026,DPC0038,Clc1ccc([*:1])cc1,CC[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.83,0.1900000000000004
+DPC0026,DPC0039,Clc1ccc([*:1])cc1,CC[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.64,5.94,0.3000000000000007
+DPC0026,DPC0040,Clc1ccc([*:1])cc1,CC[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.56,-0.08000000000000007
+DPC0026,DPC0041,Clc1ccc([*:1])cc1,CC[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.64,5.66,0.020000000000000462
+DPC0026,DPC0042,Clc1ccc([*:1])cc1,CC[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.53,-0.10999999999999943
+DPC0026,DPC0043,Clc1ccc([*:1])cc1,CC[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.7,0.0600000000000005
+DPC0027,DPC0028,Clc1ccc([*:1])cc1,CCC[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.82,0.15000000000000036
+DPC0027,DPC0029,Clc1ccc([*:1])cc1,CCC[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.81,0.13999999999999968
+DPC0027,DPC0030,Clc1ccc([*:1])cc1,CCC[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.59,-0.08000000000000007
+DPC0027,DPC0031,Clc1ccc([*:1])cc1,CCC[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.54,-0.1299999999999999
+DPC0027,DPC0032,Clc1ccc([*:1])cc1,CCC[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.54,-0.1299999999999999
+DPC0027,DPC0033,Clc1ccc([*:1])cc1,CCC[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.64,-0.03000000000000025
+DPC0027,DPC0034,Clc1ccc([*:1])cc1,CCC[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.69,0.020000000000000462
+DPC0027,DPC0035,Clc1ccc([*:1])cc1,CCC[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.77,0.09999999999999964
+DPC0027,DPC0036,Clc1ccc([*:1])cc1,CCC[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.94,0.27000000000000046
+DPC0027,DPC0037,Clc1ccc([*:1])cc1,CCC[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,,
+DPC0027,DPC0038,Clc1ccc([*:1])cc1,CCC[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.83,0.16000000000000014
+DPC0027,DPC0039,Clc1ccc([*:1])cc1,CCC[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.67,5.94,0.27000000000000046
+DPC0027,DPC0040,Clc1ccc([*:1])cc1,CCC[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.56,-0.11000000000000032
+DPC0027,DPC0041,Clc1ccc([*:1])cc1,CCC[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.67,5.66,-0.009999999999999787
+DPC0027,DPC0042,Clc1ccc([*:1])cc1,CCC[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.53,-0.13999999999999968
+DPC0027,DPC0043,Clc1ccc([*:1])cc1,CCC[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.67,5.7,0.03000000000000025
+DPC0028,DPC0029,Clc1ccc([*:1])cc1,CO[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.81,-0.010000000000000675
+DPC0028,DPC0030,Clc1ccc([*:1])cc1,CO[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.59,-0.23000000000000043
+DPC0028,DPC0031,Clc1ccc([*:1])cc1,CO[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.54,-0.28000000000000025
+DPC0028,DPC0032,Clc1ccc([*:1])cc1,CO[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.54,-0.28000000000000025
+DPC0028,DPC0033,Clc1ccc([*:1])cc1,CO[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.64,-0.1800000000000006
+DPC0028,DPC0034,Clc1ccc([*:1])cc1,CO[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.69,-0.1299999999999999
+DPC0028,DPC0035,Clc1ccc([*:1])cc1,CO[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.77,-0.05000000000000071
+DPC0028,DPC0036,Clc1ccc([*:1])cc1,CO[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.94,0.1200000000000001
+DPC0028,DPC0037,Clc1ccc([*:1])cc1,CO[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,,
+DPC0028,DPC0038,Clc1ccc([*:1])cc1,CO[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.83,0.009999999999999787
+DPC0028,DPC0039,Clc1ccc([*:1])cc1,CO[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.82,5.94,0.1200000000000001
+DPC0028,DPC0040,Clc1ccc([*:1])cc1,CO[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.56,-0.2600000000000007
+DPC0028,DPC0041,Clc1ccc([*:1])cc1,CO[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.82,5.66,-0.16000000000000014
+DPC0028,DPC0042,Clc1ccc([*:1])cc1,CO[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.53,-0.29000000000000004
+DPC0028,DPC0043,Clc1ccc([*:1])cc1,CO[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.82,5.7,-0.1200000000000001
+DPC0029,DPC0030,Clc1ccc([*:1])cc1,CCO[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.59,-0.21999999999999975
+DPC0029,DPC0031,Clc1ccc([*:1])cc1,CCO[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.54,-0.2699999999999996
+DPC0029,DPC0032,Clc1ccc([*:1])cc1,CCO[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.54,-0.2699999999999996
+DPC0029,DPC0033,Clc1ccc([*:1])cc1,CCO[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.64,-0.16999999999999993
+DPC0029,DPC0034,Clc1ccc([*:1])cc1,CCO[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.69,-0.11999999999999922
+DPC0029,DPC0035,Clc1ccc([*:1])cc1,CCO[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.77,-0.040000000000000036
+DPC0029,DPC0036,Clc1ccc([*:1])cc1,CCO[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.94,0.13000000000000078
+DPC0029,DPC0037,Clc1ccc([*:1])cc1,CCO[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,,
+DPC0029,DPC0038,Clc1ccc([*:1])cc1,CCO[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.83,0.020000000000000462
+DPC0029,DPC0039,Clc1ccc([*:1])cc1,CCO[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.81,5.94,0.13000000000000078
+DPC0029,DPC0040,Clc1ccc([*:1])cc1,CCO[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.56,-0.25
+DPC0029,DPC0041,Clc1ccc([*:1])cc1,CCO[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.81,5.66,-0.14999999999999947
+DPC0029,DPC0042,Clc1ccc([*:1])cc1,CCO[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.53,-0.27999999999999936
+DPC0029,DPC0043,Clc1ccc([*:1])cc1,CCO[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.81,5.7,-0.10999999999999943
+DPC0030,DPC0031,Clc1ccc([*:1])cc1,N[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.54,-0.04999999999999982
+DPC0030,DPC0032,Clc1ccc([*:1])cc1,N[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.54,-0.04999999999999982
+DPC0030,DPC0033,Clc1ccc([*:1])cc1,N[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.64,0.04999999999999982
+DPC0030,DPC0034,Clc1ccc([*:1])cc1,N[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.69,0.10000000000000053
+DPC0030,DPC0035,Clc1ccc([*:1])cc1,N[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.77,0.17999999999999972
+DPC0030,DPC0036,Clc1ccc([*:1])cc1,N[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.94,0.35000000000000053
+DPC0030,DPC0037,Clc1ccc([*:1])cc1,N[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,,
+DPC0030,DPC0038,Clc1ccc([*:1])cc1,N[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.83,0.2400000000000002
+DPC0030,DPC0039,Clc1ccc([*:1])cc1,N[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.59,5.94,0.35000000000000053
+DPC0030,DPC0040,Clc1ccc([*:1])cc1,N[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.56,-0.03000000000000025
+DPC0030,DPC0041,Clc1ccc([*:1])cc1,N[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.59,5.66,0.07000000000000028
+DPC0030,DPC0042,Clc1ccc([*:1])cc1,N[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.53,-0.05999999999999961
+DPC0030,DPC0043,Clc1ccc([*:1])cc1,N[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.59,5.7,0.11000000000000032
+DPC0031,DPC0032,Clc1ccc([*:1])cc1,CN[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.54,0.0
+DPC0031,DPC0033,Clc1ccc([*:1])cc1,CN[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.64,0.09999999999999964
+DPC0031,DPC0034,Clc1ccc([*:1])cc1,CN[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.69,0.15000000000000036
+DPC0031,DPC0035,Clc1ccc([*:1])cc1,CN[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.77,0.22999999999999954
+DPC0031,DPC0036,Clc1ccc([*:1])cc1,CN[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.94,0.40000000000000036
+DPC0031,DPC0037,Clc1ccc([*:1])cc1,CN[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,,
+DPC0031,DPC0038,Clc1ccc([*:1])cc1,CN[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.83,0.29000000000000004
+DPC0031,DPC0039,Clc1ccc([*:1])cc1,CN[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.54,5.94,0.40000000000000036
+DPC0031,DPC0040,Clc1ccc([*:1])cc1,CN[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.56,0.019999999999999574
+DPC0031,DPC0041,Clc1ccc([*:1])cc1,CN[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.54,5.66,0.1200000000000001
+DPC0031,DPC0042,Clc1ccc([*:1])cc1,CN[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.53,-0.009999999999999787
+DPC0031,DPC0043,Clc1ccc([*:1])cc1,CN[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.7,0.16000000000000014
+DPC0032,DPC0033,Clc1ccc([*:1])cc1,CN(C)[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.64,0.09999999999999964
+DPC0032,DPC0034,Clc1ccc([*:1])cc1,CN(C)[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.69,0.15000000000000036
+DPC0032,DPC0035,Clc1ccc([*:1])cc1,CN(C)[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.77,0.22999999999999954
+DPC0032,DPC0036,Clc1ccc([*:1])cc1,CN(C)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.94,0.40000000000000036
+DPC0032,DPC0037,Clc1ccc([*:1])cc1,CN(C)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,,
+DPC0032,DPC0038,Clc1ccc([*:1])cc1,CN(C)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.83,0.29000000000000004
+DPC0032,DPC0039,Clc1ccc([*:1])cc1,CN(C)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.54,5.94,0.40000000000000036
+DPC0032,DPC0040,Clc1ccc([*:1])cc1,CN(C)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.56,0.019999999999999574
+DPC0032,DPC0041,Clc1ccc([*:1])cc1,CN(C)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.54,5.66,0.1200000000000001
+DPC0032,DPC0042,Clc1ccc([*:1])cc1,CN(C)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.53,-0.009999999999999787
+DPC0032,DPC0043,Clc1ccc([*:1])cc1,CN(C)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.54,5.7,0.16000000000000014
+DPC0033,DPC0034,Clc1ccc([*:1])cc1,N#C[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.69,0.05000000000000071
+DPC0033,DPC0035,Clc1ccc([*:1])cc1,N#C[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.77,0.1299999999999999
+DPC0033,DPC0036,Clc1ccc([*:1])cc1,N#C[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.94,0.3000000000000007
+DPC0033,DPC0037,Clc1ccc([*:1])cc1,N#C[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,,
+DPC0033,DPC0038,Clc1ccc([*:1])cc1,N#C[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.83,0.1900000000000004
+DPC0033,DPC0039,Clc1ccc([*:1])cc1,N#C[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.64,5.94,0.3000000000000007
+DPC0033,DPC0040,Clc1ccc([*:1])cc1,N#C[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.56,-0.08000000000000007
+DPC0033,DPC0041,Clc1ccc([*:1])cc1,N#C[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.64,5.66,0.020000000000000462
+DPC0033,DPC0042,Clc1ccc([*:1])cc1,N#C[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.53,-0.10999999999999943
+DPC0033,DPC0043,Clc1ccc([*:1])cc1,N#C[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.64,5.7,0.0600000000000005
+DPC0034,DPC0035,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],NC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.77,0.07999999999999918
+DPC0034,DPC0036,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.94,0.25
+DPC0034,DPC0037,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,,
+DPC0034,DPC0038,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.83,0.13999999999999968
+DPC0034,DPC0039,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.69,5.94,0.25
+DPC0034,DPC0040,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.56,-0.13000000000000078
+DPC0034,DPC0041,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.69,5.66,-0.03000000000000025
+DPC0034,DPC0042,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.53,-0.16000000000000014
+DPC0034,DPC0043,Clc1ccc([*:1])cc1,FC(F)(F)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.69,5.7,0.009999999999999787
+DPC0035,DPC0036,Clc1ccc([*:1])cc1,NC(=O)[*:1],CNC(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.94,0.17000000000000082
+DPC0035,DPC0037,Clc1ccc([*:1])cc1,NC(=O)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,,
+DPC0035,DPC0038,Clc1ccc([*:1])cc1,NC(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.83,0.0600000000000005
+DPC0035,DPC0039,Clc1ccc([*:1])cc1,NC(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.77,5.94,0.17000000000000082
+DPC0035,DPC0040,Clc1ccc([*:1])cc1,NC(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.56,-0.20999999999999996
+DPC0035,DPC0041,Clc1ccc([*:1])cc1,NC(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.77,5.66,-0.10999999999999943
+DPC0035,DPC0042,Clc1ccc([*:1])cc1,NC(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.53,-0.23999999999999932
+DPC0035,DPC0043,Clc1ccc([*:1])cc1,NC(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.77,5.7,-0.0699999999999994
+DPC0036,DPC0037,Clc1ccc([*:1])cc1,CNC(=O)[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,,
+DPC0036,DPC0038,Clc1ccc([*:1])cc1,CNC(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.83,-0.11000000000000032
+DPC0036,DPC0039,Clc1ccc([*:1])cc1,CNC(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.94,5.94,0.0
+DPC0036,DPC0040,Clc1ccc([*:1])cc1,CNC(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.56,-0.3800000000000008
+DPC0036,DPC0041,Clc1ccc([*:1])cc1,CNC(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.94,5.66,-0.28000000000000025
+DPC0036,DPC0042,Clc1ccc([*:1])cc1,CNC(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.53,-0.41000000000000014
+DPC0036,DPC0043,Clc1ccc([*:1])cc1,CNC(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.7,-0.2400000000000002
+DPC0037,DPC0038,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.83,
+DPC0037,DPC0039,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,,5.94,
+DPC0037,DPC0040,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.56,
+DPC0037,DPC0041,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,,5.66,
+DPC0037,DPC0042,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.53,
+DPC0037,DPC0043,Clc1ccc([*:1])cc1,NS(=O)(=O)[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,,5.7,
+DPC0038,DPC0039,Clc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Northstar Therapeutics,5.83,5.94,0.11000000000000032
+DPC0038,DPC0040,Clc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.83,5.56,-0.27000000000000046
+DPC0038,DPC0041,Clc1ccc([*:1])cc1,FC(F)(F)O[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.83,5.66,-0.16999999999999993
+DPC0038,DPC0042,Clc1ccc([*:1])cc1,FC(F)(F)O[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.83,5.53,-0.2999999999999998
+DPC0038,DPC0043,Clc1ccc([*:1])cc1,FC(F)(F)O[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.83,5.7,-0.1299999999999999
+DPC0039,DPC0040,Clc1ccc([*:1])cc1,C1CN([*:1])CCO1,C1CC1[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.56,-0.3800000000000008
+DPC0039,DPC0041,Clc1ccc([*:1])cc1,C1CN([*:1])CCO1,C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.94,5.66,-0.28000000000000025
+DPC0039,DPC0042,Clc1ccc([*:1])cc1,C1CN([*:1])CCO1,O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.53,-0.41000000000000014
+DPC0039,DPC0043,Clc1ccc([*:1])cc1,C1CN([*:1])CCO1,O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.94,5.7,-0.2400000000000002
+DPC0040,DPC0041,Clc1ccc([*:1])cc1,C1CC1[*:1],C1CCC([*:1])CC1,Northstar Therapeutics,Northstar Therapeutics,5.56,5.66,0.10000000000000053
+DPC0040,DPC0042,Clc1ccc([*:1])cc1,C1CC1[*:1],O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.56,5.53,-0.02999999999999936
+DPC0040,DPC0043,Clc1ccc([*:1])cc1,C1CC1[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.56,5.7,0.14000000000000057
+DPC0041,DPC0042,Clc1ccc([*:1])cc1,C1CCC([*:1])CC1,O[*:1],Northstar Therapeutics,Northstar Therapeutics,5.66,5.53,-0.1299999999999999
+DPC0041,DPC0043,Clc1ccc([*:1])cc1,C1CCC([*:1])CC1,O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.66,5.7,0.040000000000000036
+DPC0042,DPC0043,Clc1ccc([*:1])cc1,O[*:1],O=C(O)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.53,5.7,0.16999999999999993
+DPC0003,DPC0024,Brc1ccc([*:1])cc1,F[*:1],Cl[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.48,-0.3099999999999996
+DPC0003,DPC0044,Brc1ccc([*:1])cc1,F[*:1],Br[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.74,-0.04999999999999982
+DPC0003,DPC0045,Brc1ccc([*:1])cc1,F[*:1],C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.72,-0.07000000000000028
+DPC0003,DPC0046,Brc1ccc([*:1])cc1,F[*:1],CC[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,,
+DPC0003,DPC0047,Brc1ccc([*:1])cc1,F[*:1],CCC[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.59,-0.20000000000000018
+DPC0003,DPC0048,Brc1ccc([*:1])cc1,F[*:1],CO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.58,-0.20999999999999996
+DPC0003,DPC0049,Brc1ccc([*:1])cc1,F[*:1],CCO[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.53,-0.2599999999999998
+DPC0003,DPC0050,Brc1ccc([*:1])cc1,F[*:1],N[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.41,-0.3799999999999999
+DPC0003,DPC0051,Brc1ccc([*:1])cc1,F[*:1],CN[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.55,-0.2400000000000002
+DPC0003,DPC0052,Brc1ccc([*:1])cc1,F[*:1],CN(C)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.74,-0.04999999999999982
+DPC0003,DPC0053,Brc1ccc([*:1])cc1,F[*:1],N#C[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.91,0.1200000000000001
+DPC0003,DPC0054,Brc1ccc([*:1])cc1,F[*:1],FC(F)(F)[*:1],Mosaic Medicines | Northstar Therapeutics,Northstar Therapeutics,5.79,5.87,0.08000000000000007
+DPC0003,DPC0055,Brc1ccc([*:1])cc1,F[*:1],NC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.925000000000001,0.13500000000000068
+DPC0003,DPC0056,Brc1ccc([*:1])cc1,F[*:1],CNC(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.94,0.15000000000000036
+DPC0003,DPC0057,Brc1ccc([*:1])cc1,F[*:1],NS(=O)(=O)[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.75,-0.040000000000000036
+DPC0003,DPC0058,Brc1ccc([*:1])cc1,F[*:1],FC(F)(F)O[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.695,-0.09499999999999975
+DPC0003,DPC0059,Brc1ccc([*:1])cc1,F[*:1],C1CN([*:1])CCO1,Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.890000000000001,0.10000000000000053
+DPC0003,DPC0060,Brc1ccc([*:1])cc1,F[*:1],C1CC1[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.79,5.78,-0.009999999999999787
+DPC0003,DPC0061,Brc1ccc([*:1])cc1,F[*:1],C1CCC([*:1])CC1,Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma,5.79,6.04,0.25
+DPC0003,DPC0062,Brc1ccc([*:1])cc1,F[*:1],O[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma,5.79,5.93,0.13999999999999968
+DPC0003,DPC0063,Brc1ccc([*:1])cc1,F[*:1],O=C(O)[*:1],Mosaic Medicines | Northstar Therapeutics,Helixbridge Pharma,5.79,5.99,0.20000000000000018
+DPC0024,DPC0044,Brc1ccc([*:1])cc1,Cl[*:1],Br[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.74,0.2599999999999998
+DPC0024,DPC0045,Brc1ccc([*:1])cc1,Cl[*:1],C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.72,0.23999999999999932
+DPC0024,DPC0046,Brc1ccc([*:1])cc1,Cl[*:1],CC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,,
+DPC0024,DPC0047,Brc1ccc([*:1])cc1,Cl[*:1],CCC[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.59,0.10999999999999943
+DPC0024,DPC0048,Brc1ccc([*:1])cc1,Cl[*:1],CO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.58,0.09999999999999964
+DPC0024,DPC0049,Brc1ccc([*:1])cc1,Cl[*:1],CCO[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.53,0.04999999999999982
+DPC0024,DPC0050,Brc1ccc([*:1])cc1,Cl[*:1],N[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.41,-0.07000000000000028
+DPC0024,DPC0051,Brc1ccc([*:1])cc1,Cl[*:1],CN[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.55,0.0699999999999994
+DPC0024,DPC0052,Brc1ccc([*:1])cc1,Cl[*:1],CN(C)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.74,0.2599999999999998
+DPC0024,DPC0053,Brc1ccc([*:1])cc1,Cl[*:1],N#C[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.91,0.4299999999999997
+DPC0024,DPC0054,Brc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)[*:1],Northstar Therapeutics,Northstar Therapeutics,5.48,5.87,0.3899999999999997
+DPC0024,DPC0055,Brc1ccc([*:1])cc1,Cl[*:1],NC(=O)[*:1],Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.925000000000001,0.4450000000000003
+DPC0024,DPC0056,Brc1ccc([*:1])cc1,Cl[*:1],CNC(=O)[*:1],Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.94,0.45999999999999996
+DPC0024,DPC0057,Brc1ccc([*:1])cc1,Cl[*:1],NS(=O)(=O)[*:1],Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.75,0.2699999999999996
+DPC0024,DPC0058,Brc1ccc([*:1])cc1,Cl[*:1],FC(F)(F)O[*:1],Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.695,0.21499999999999986
+DPC0024,DPC0059,Brc1ccc([*:1])cc1,Cl[*:1],C1CN([*:1])CCO1,Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.890000000000001,0.41000000000000014
+DPC0024,DPC0060,Brc1ccc([*:1])cc1,Cl[*:1],C1CC1[*:1],Northstar Therapeutics,Helixbridge Pharma | Northstar Therapeutics,5.48,5.78,0.2999999999999998

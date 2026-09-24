@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "created_utc": "2026-09-24T08:50:08.727109+00:00",
+  "input": {
+    "filename": "demo_patent_compounds.csv",
+    "sha256": "0b2a87a4cba8405fff03fc4c179aa30be05862e58b733c02538d9b0c91a54e36",
+    "columns": [
+      "compound_id",
+      "smiles",
+      "patent_id",
+      "assignee",
+      "publication_date",
+      "year",
+      "series",
+      "assay_id",
+      "standard_relation",
+      "pIC50",
+      "project_note"
+    ],
+    "retained_columns": [
+      "compound_id",
+      "smiles",
+      "patent_id",
+      "assignee",
+      "publication_date",
+      "year",
+      "series",
+      "assay_id",
+      "standard_relation",
+      "pIC50",
+      "project_note"
+    ],
+    "structure_column": "smiles",
+    "analysis_column": "pIC50"
+  },
+  "configuration": {
+    "input_path": "examples/demo_patent_compounds.csv",
+    "structure_column": "smiles",
+    "analysis_column": "pIC50",
+    "output_dir": "example_results/",
+    "query_smiles": null,
+    "similarity_threshold": 0.55,
+    "neighbour_limit": 20,
+    "replicate_disagreement_threshold": 1.0,
+    "run_model": true,
+    "stack_by": "auto"
+  },
+  "random_seed": 42,
+  "versions": {
+    "python": "3.12.14",
+    "rdkit": "2026.03.6",
+    "pandas": "3.0.6",
+    "scikit_learn": "1.9.1"
+  },
+  "counts": {
+    "input_records": 240,
+    "usable_exact_measurements": 224,
+    "unique_standardized_compounds": 216,
+    "rejected_records": 0,
+    "matched_pairs": 500,
+    "structures_with_replicates": 21
+  },
+  "outputs": {
+    "row_level_source": "all_activities.csv",
+    "row_level_standardized": "standardized_records.csv",
+    "quality": "measurement_qc.csv",
+    "replicates": "replicate_summary.csv",
+    "model": "model_validation.json"
+  }
+}
