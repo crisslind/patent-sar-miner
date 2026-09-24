@@ -1,5 +1,5 @@
 from pathlib import Path
-
+import pandas as pd
 from patent_sar_miner.analysis import AnalysisConfig, run_analysis
 
 
@@ -15,7 +15,9 @@ def test_end_to_end(tmp_path: Path):
             query_smiles="COc1ccc(Nc2ncc(C)cn2)cc1",
         )
     )
-    assert manifest["counts"]["input_records"] == 18
+    expected_records = len(pd.read_csv(source))
+    assert manifest["counts"]["input_records"] == expected_records
+    
     assert (output / "report.html").exists()
     assert (output / "standardized_compounds.csv").exists()
     assert (output / "matched_pairs.csv").exists()
