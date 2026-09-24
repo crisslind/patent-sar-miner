@@ -112,7 +112,7 @@ measurement quality, replicate uncertainty, model validation, chemical series,
 matched-pair structures and numerically ordered R groups. R-group columns that
 are hydrogen for every row are omitted from the displayed dataframe.
 
-## API
+## API (work in progress)...
 
 Start the optional backend service:
 
