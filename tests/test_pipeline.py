@@ -1,5 +1,7 @@
 from pathlib import Path
+
 import pandas as pd
+
 from patent_sar_miner.analysis import AnalysisConfig, run_analysis
 
 
